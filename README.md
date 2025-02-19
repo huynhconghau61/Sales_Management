@@ -1,4 +1,3 @@
-# project-winfom1
-Demo trong phần report
-Tải Visual Studio và cài đặt winfom
-tải Database Sqlserver
+# XÂY DỰNG HỆ THỐNG QUẢN LÝ BÁN HÀNG PHÂN TÁN 
++ Tải Visual Studio và cài đặt winfom
++ tải Database Sqlserver
